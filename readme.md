@@ -57,8 +57,8 @@ This is a demo project showcasing a RESTful API for managing events and users fo
 ### Installation
 1. Clone the repository:
 ```
-git clone https://github.com/JohnPalmgren/events-app-backend.git
-cd events-app-backend
+git clone https://github.com/JohnPalmgren/events-app-api.git
+cd events-app-api
 ```
 
 2. Install dependencies

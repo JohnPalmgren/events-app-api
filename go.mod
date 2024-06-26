@@ -1,4 +1,4 @@
-module example.com/rest-api
+module github.com/JohnPalmgren/events-app-api
 
 go 1.22.4
 
